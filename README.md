@@ -14,21 +14,18 @@ Os passos da instalação dependem do seu Sistema Operacional.
 
 #### Arch Linux & Derivados:
 ```sh
-$ sudo pacman -S wget
-$ mkdir ifspy
-$ cd ifspy
-$ wget https://raw.githubusercontent.com/magnasec/magnasec.github.io/master/projects/ifspy/ifspy.py
+$ sudo pacman -S git
+$ git clone https://github.com/magnasec/ifspy.git
 ```
 
 #### Ubuntu/Debian & Derivados:
 ```sh
 $ sudo apt-get install wget
-$ mkdir ifspy
-$ cd ifspy
-$ wget https://raw.githubusercontent.com/magnasec/magnasec.github.io/master/projects/ifspy/ifspy.py
+$ git clone https://github.com/magnasec/ifspy.git
 ```
 #### Execução
 ```sh
+$ cd ifspy
 $ python3 ifspy.py 
 ```
 
