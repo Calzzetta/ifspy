@@ -185,5 +185,6 @@ def VoltarAoMenuPrincipal():
 	Inicio()
 
 def Inicio():
+	os.system("clear")
 	Principal()
 Inicio()
