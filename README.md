@@ -3,7 +3,7 @@
 ![IMGIFSPY](http://i.imgur.com/6ml1gIl.png?2)
 
 ## Descrição:
-O IFSPy foi desenvolvido para orientar aos novos usuários do Mundo GNU/Linux. Ele basicamente automatiza o comando `ifconfig` dando varias opções. Com sua [primeira versão] desenvolvida em Shell Script por [Thiago S3N4], e foi adaptado com novas opções em Python3 por [Ygor M4GN4].
+O IFSPy foi desenvolvido para orientar aos novos usuários do Mundo GNU/Linux. Ele basicamente automatiza o comando `ifconfig` dando varias opções. Com sua [primeira versão] desenvolvida em Shell Script por [Thiago S3N4], e foi adaptado com novas opções em Python3 por M4GN4.
 
 ## Requerimentos:
   - Sistema Operaciona GNU/Linux
@@ -20,7 +20,7 @@ $ git clone https://github.com/magnasec/ifspy.git
 
 #### Ubuntu/Debian & Derivados:
 ```sh
-$ sudo apt-get install git
+$ sudo apt-get install wget
 $ git clone https://github.com/magnasec/ifspy.git
 ```
 #### Execução
