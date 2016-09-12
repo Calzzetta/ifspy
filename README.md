@@ -30,6 +30,6 @@ $ python3 ifspy.py
 ```
 
 [Thiago S3N4]: <https://github.com/ticosena>
-[Ygor M4GN4]: <https://magnasec.github.io>
+[M4GN4]: <https://magnasec.github.io>
 
 [primeira versão]: <https://github.com/ticosena/Scripts/blob/master/ifs.sh>
