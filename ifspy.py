@@ -2,8 +2,6 @@
 
 import os
 
-os.system("clear")
-
 def Apresentacao():
 	print ('''
  _____ ______ _____ _____       
