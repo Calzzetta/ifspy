@@ -20,7 +20,7 @@ $ git clone https://github.com/magnasec/ifspy.git
 
 #### Ubuntu/Debian & Derivados:
 ```sh
-$ sudo apt-get install wget
+$ sudo apt-get install git
 $ git clone https://github.com/magnasec/ifspy.git
 ```
 #### Execução
