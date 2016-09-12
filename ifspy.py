@@ -2,7 +2,7 @@
 
 import os
 
-comandoclear = os.system("clear")
+os.system("clear")
 
 def Apresentacao():
 	print ('''
