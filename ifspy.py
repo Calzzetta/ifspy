@@ -13,7 +13,7 @@ def Apresentacao():
  _| |_| |    ____) | |   | |_| |
 |_____|_|   |_____/|_|    \__, |
                            __/ |
-                          |___/   Versão: 1.1 BETA
+                          |___/   Versão: 1.2 BETA
 ''')
 
 def Principal():
@@ -155,7 +155,7 @@ def PrincipalOpcao3():
 \033[1;36mProjeto:\033[1;m IFSPy..
 \033[1;36mDesenvolvedores:\033[1;m Ygor - (M4GN4) \033[1;36me\033[1;m Thiago (S3N4)
 \033[1;36mAno:\033[1;m 2016
-\033[1;36mVersão Atual:\033[1;m 1.1 BETA
+\033[1;36mVersão Atual:\033[1;m 1.2 BETA
 \033[1;36mVersão Estável:\033[1;m 1.0
 \033[1;36mRequerimentos:\033[1;m GNU/Linux, Python3
 \033[1;36mDescrição:\033[1;m Ferramenta auxiliar para a automatização do comando "ifconfig"; Ideal para
